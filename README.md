@@ -6,7 +6,7 @@ Preliminary Test Results are shown below.
 
 | Scope | Gain | Input Voltage (mV) | .bin file | Output Graph |
 |-------|------|--------------------|-----------|--------------|
-| on    | 1    | 100.9              |           |              |
+| on    | 1    | 100.9              |[test1 file](https://github.com/JohnTerragnoli/iMESA_NoiseTests/blob/master/test%201.bin)|[test1 plot](https://github.com/JohnTerragnoli/iMESA_NoiseTests/blob/master/test%201.fig)|
 | off   | 1    | 100.9              |           |              |
 | off   | 10   | 100.9              |           |              |
 | off   | 1    | 116.7              |           |              |
